@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<root>
+    
+    <item>
+        <name>Useful Keymap</name>
+        <appendix>Private Setting</appendix>
+        <identifier>private.other_keys</identifier>
+        
+        <autogen> __KeyOverlaidModifier__
+            KeyCode::CONTROL_L,
+            KeyCode::CONTROL_L,
+            KeyCode::ENTER
+        </autogen>
+        <autogen> __KeyOverlaidModifier__
+            KeyCode::SHIFT_L,
+            KeyCode::SHIFT_L,
+            KeyCode::JIS_EISUU, KeyCode::ESCAPE
+        </autogen>
+        <autogen> __KeyOverlaidModifier__
+            KeyCode::SEMICOLON,
+            KeyCode::SHIFT_R,
+            KeyCode::SEMICOLON
+        </autogen>
+    </item>
+    
+</root>
