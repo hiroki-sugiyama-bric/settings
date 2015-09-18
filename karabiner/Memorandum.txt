@@ -1,0 +1,3 @@
+Key Repeat, GenericのWait before and after a modifier key eventは0msにするべき
+Key Repeat, Key Overlaid Modifier のTimeoutは、意図せぬ場合の出力を防いで200ms程度にするべき。
+Simple vi mode はONにするべき。
