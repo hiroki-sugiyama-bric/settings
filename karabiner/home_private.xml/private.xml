@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<root>
+	<item>
+            <name>Other Useful Keymap</name>
+            <identifier>private.other_keys</identifier>
+            <!--CONTROL単打をエンターに-->
+            <autogen>__KeyOverlaidModifier__
+                KeyCode::CONTROL_L,
+                KeyCode::CONTROL_L,
+                KeyCode::ENTER
+            </autogen>
+            <!--左シフト単打をエスケープ＋英数に-->
+            <autogen>__KeyOverlaidModifier__
+                KeyCode::SHIFT_L,
+                KeyCode::SHIFT_L,
+                KeyCode::JIS_EISUU, KeyCode::ESCAPE
+            </autogen>
+            <!--セミコロンにシフト機能追加-->
+            <autogen> __KeyOverlaidModifier__
+                KeyCode::SEMICOLON,
+                KeyCode::SHIFT_R,
+                KeyCode::SEMICOLON
+            </autogen>
+            <!--右シフト単打をチルダに-->
+            <autogen>__KeyOverlaidModifier__
+                KeyCode::SHIFT_R,
+                KeyCode::SHIFT_R,
+                KeyCode::BACKQUOTE, ModifierFlag::SHIFT_R
+            </autogen>
+            <!--Ctrl + H をデリートに-->
+            <autogen>__KeyToKey__
+                KeyCode::H, ModifierFlag::CONTROL_L,
+                KeyCode::DELETE
+            </autogen>
+    </item>
+</root>
