@@ -1,0 +1,4 @@
+インストールはSDKMANを用いて行った。
+ホームは$GRAILS_HOMEで確認できる。
+grails run-app後はCtrl-zで抜け出すことができ、その後psでIDを確認した後にkill -9で消すことが
+できる。
