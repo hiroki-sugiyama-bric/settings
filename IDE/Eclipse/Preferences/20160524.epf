@@ -1,4 +1,4 @@
-#Tue May 24 10:31:02 JST 2016
+#Tue May 24 11:09:04 JST 2016
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.enabled=true
 /instance/com.adobe.flexide.as.core/asASDocColor=\#CCDF32
 /instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedMethodInvocation.color=205,246,104
@@ -173,7 +173,7 @@
 /instance/com.adobe.flexide.as.core/asVarBold=false
 /instance/org.eclipse.cdt.ui/pp_directive=255,255,255
 /instance/de.walware.statet.r.ui/rdBrackets.color=216,216,216
-/instance/org.eclipse.jdt.ui/semanticHighlighting.staticFinalField.color=141,218,248
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticFinalField.color=226,199,248
 /instance/org.scala-ide.sdt.core/syntaxColoring.default.color=216,216,216
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
 /instance/org.eclipse.wst.html.ui/entityReference=\#FFFFFF | \#1E1E1E | false | null | null | null
@@ -203,6 +203,7 @@
 /instance/ccw.core/ccw.preferences.editor_color.JAVA_STATIC_METHOD.bold=false
 /instance/org.eclipse.ui.editors/searchResultTextStyle=BOX
 /instance/com.adobe.flexide.css.core/cssCommentColor=\#C7DD0C
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.texteditor.blockSelectionModeFont=1|Menlo|11.0|0|COCOA|1|Menlo-Regular;
 /instance/org.eclipse.dltk.ruby.ui/DLTK_keyword_bold=false
 /instance/org.eclipse.dltk.tcl.ui/tcl_variable=121,171,255
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.deprecatedMember.underline=false
@@ -337,7 +338,7 @@
 /instance/org.eclipse.wst.html.ui/declBoder=\#FFFFFF | \#1E1E1E | null | null | null | null
 /instance/org.eclipse.dltk.ruby.ui/variable_bold=false
 /instance/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
-/instance/org.eclipse.jdt.ui/overriddenByCSS=,content_assist_completion_replacement_background,content_assist_completion_replacement_foreground,content_assist_parameters_background,content_assist_parameters_foreground,content_assist_proposals_background,content_assist_proposals_foreground,java_bracket,java_comment_task_tag,java_default,java_doc_link,java_doc_tag,java_operator,matchingBracketsColor,pf_coloring_argument,pf_coloring_assignment,pf_coloring_comment,pf_coloring_key,pf_coloring_value,semanticHighlighting.abstractClass.bold,semanticHighlighting.abstractClass.color,semanticHighlighting.abstractClass.enabled,semanticHighlighting.abstractMethodInvocation.color,semanticHighlighting.abstractMethodInvocation.enabled,semanticHighlighting.annotation.bold,semanticHighlighting.annotation.color,semanticHighlighting.annotation.enabled,semanticHighlighting.annotation.italic,semanticHighlighting.annotationElementReference.color,semanticHighlighting.annotationElementReference.enabled,semanticHighlighting.class.enabled,semanticHighlighting.class.bold,semanticHighlighting.deprecatedMember.color,semanticHighlighting.deprecatedMember.enabled,semanticHighlighting.deprecatedMember.underline,semanticHighlighting.deprecatedMember.strikethrough,semanticHighlighting.enum.color,semanticHighlighting.enum.enabled,semanticHighlighting.enum.italic,semanticHighlighting.field.color,semanticHighlighting.field.enabled,semanticHighlighting.inheritedMethodInvocation.color,semanticHighlighting.inheritedMethodInvocation.enabled,semanticHighlighting.interface.color,semanticHighlighting.interface.enabled,semanticHighlighting.localVariable.color,semanticHighlighting.localVariable.enabled,semanticHighlighting.localVariableDeclaration.color,semanticHighlighting.localVariableDeclaration.enabled,semanticHighlighting.method.enabled,semanticHighlighting.methodDeclarationName.enabled,semanticHighlighting.number.color,semanticHighlighting.number.enabled,semanticHighlighting.parameterVariable.color,semanticHighlighting.parameterVariable.enabled,semanticHighlighting.staticField.color,semanticHighlighting.staticField.enabled,semanticHighlighting.staticFinalField.color,semanticHighlighting.staticFinalField.enabled,semanticHighlighting.staticMethodInvocation.color,semanticHighlighting.staticMethodInvocation.enabled,semanticHighlighting.typeArgument.color,semanticHighlighting.typeArgument.enabled,semanticHighlighting.typeParameter.color,semanticHighlighting.typeParameter.enabled,
+/instance/org.eclipse.jdt.ui/overriddenByCSS=,content_assist_completion_replacement_background,content_assist_completion_replacement_foreground,content_assist_parameters_background,content_assist_parameters_foreground,content_assist_proposals_background,content_assist_proposals_foreground,java_bracket,java_comment_task_tag,java_default,java_doc_link,java_doc_tag,java_operator,matchingBracketsColor,pf_coloring_argument,pf_coloring_assignment,pf_coloring_comment,pf_coloring_key,pf_coloring_value,semanticHighlighting.abstractClass.bold,semanticHighlighting.abstractClass.color,semanticHighlighting.abstractClass.enabled,semanticHighlighting.abstractMethodInvocation.color,semanticHighlighting.abstractMethodInvocation.enabled,semanticHighlighting.annotation.bold,semanticHighlighting.annotation.color,semanticHighlighting.annotation.enabled,semanticHighlighting.annotation.italic,semanticHighlighting.annotationElementReference.color,semanticHighlighting.annotationElementReference.enabled,semanticHighlighting.class.enabled,semanticHighlighting.class.bold,semanticHighlighting.deprecatedMember.color,semanticHighlighting.deprecatedMember.enabled,semanticHighlighting.deprecatedMember.underline,semanticHighlighting.deprecatedMember.strikethrough,semanticHighlighting.enum.color,semanticHighlighting.enum.enabled,semanticHighlighting.enum.italic,semanticHighlighting.field.enabled,semanticHighlighting.inheritedMethodInvocation.color,semanticHighlighting.inheritedMethodInvocation.enabled,semanticHighlighting.interface.color,semanticHighlighting.interface.enabled,semanticHighlighting.localVariable.color,semanticHighlighting.localVariable.enabled,semanticHighlighting.localVariableDeclaration.color,semanticHighlighting.localVariableDeclaration.enabled,semanticHighlighting.method.enabled,semanticHighlighting.methodDeclarationName.enabled,semanticHighlighting.number.color,semanticHighlighting.number.enabled,semanticHighlighting.parameterVariable.enabled,semanticHighlighting.staticField.color,semanticHighlighting.staticField.enabled,semanticHighlighting.staticFinalField.enabled,semanticHighlighting.staticMethodInvocation.color,semanticHighlighting.staticMethodInvocation.enabled,semanticHighlighting.typeArgument.color,semanticHighlighting.typeArgument.enabled,semanticHighlighting.typeParameter.color,semanticHighlighting.typeParameter.enabled,
 /instance/org.eclipse.php.ui/editorColorKeyword=\#FFFFFF | \#1E1E1E | false | null | null | null
 @org.eclipse.jdt.core=3.11.2.v20160128-0629
 /instance/org.python.pydev/CLASS_NAME_COLOR=210,82,82
@@ -370,6 +371,7 @@
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.BasicSemanticHighlightGenerator.AS3.Setter_enabled=true
 /instance/com.dubture.twig.ui/editorColorHeredoc=\#CCDF32 | \#1E1E1E | null | null | null | null
 /instance/org.eclipse.wst.xml.ui/piContent=\#D9E8F7 | null | false | false | false | false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.bold=false
 /instance/net.vtst.ow.eclipse.less.Less/net.vtst.ow.eclipse.less.Less.syntaxColorer.tokenStyles.DEFAULT.color=216,216,216
 /instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.underline=false
 /instance/org.eclipse.wst.xml.ui/cdataBorder=\#A7EC21 | null | false | false | false | false
@@ -455,7 +457,7 @@
 /instance/com.adobe.flexide.as.core/asReservedColor=\#FFFFFF
 /instance/ccw.core/ccw.preferences.editor_color.JAVA_STATIC_METHOD.italic=false
 /instance/org.eclipse.wst.html.ui/tagAttributeName=\#BED6FF | \#1E1E1E | null | null | null | null
-/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.editors.textfont=1|Monaco|11.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.editors.textfont=1|Menlo|12.0|0|COCOA|1|Menlo-Regular;
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.RegEx_enabled=true
 /instance/net.sourceforge.texlipse/str.BibColor=255,198,0
 /instance/de.walware.statet.r.ui/text_Rd_rdSectionTag.strikethrough=false
@@ -537,7 +539,7 @@
 /instance/de.walware.statet.r.ui/text_R_rRoxygen.italic=false
 /instance/ccw.core/ccw.preferences.editor_color.float=127,179,71
 /instance/org.scala-ide.sdt.core/syntaxColoring.semantic.localVal.color=239,192,144
-/instance/org.eclipse.jdt.ui/semanticHighlighting.field.color=102,225,248
+/instance/org.eclipse.jdt.ui/semanticHighlighting.field.color=157,230,232
 /instance/org.eclipse.jdt.ui/content_assist_completion_replacement_background=200,200,0
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.consoleBackground=53,53,53
 /instance/com.powerflasher.fdt.ui/JAVADOC_TODO_color_bold=false
@@ -611,7 +613,7 @@
 /instance/org.eclipse.dltk.ruby.ui/variable.pseudo=121,171,255
 /instance/org.epic.perleditor/keyword2Color=255,255,255
 /instance/org.eclipse.cdt.ui/semanticHighlighting.typedef.enabled=true
-/instance/org.eclipse.ui.workbench/org.eclipse.jface.textfont=1|Monaco|11.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.jface.textfont=1|Menlo|12.0|0|COCOA|1|Menlo-Regular;
 /instance/ccw.core/ccw.preferences.editor_color.char=255,198,0
 @org.eclipse.ui=3.107.0.v20150507-1945
 /instance/org.eclipse.e4.CSS/org.eclipse.e4.CSS.syntaxColorer.tokenStyles.keyword.bgColor=\#1E1E1E
@@ -803,7 +805,7 @@
 /instance/org.scala-ide.play2/template.brace.colour=255,255,255
 /instance/org.scala-ide.sdt.core/syntaxColouring.semantic.object.colour=127,179,71
 /instance/org.sweetlemonade.eclipse.json/colorDefaultEnabled=true
-/instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.color=121,171,255
+/instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.color=238,238,238
 /instance/org.eclipse.wst.jsdt.ui/useAnnotationsPrefPage=true
 /instance/org.python.pydev/KEYWORD_COLOR=255,255,255
 /instance/de.walware.statet.r.ui/text_R_taskTag.color=204,223,50
@@ -842,6 +844,7 @@
 /instance/org.eclipse.cdt.ui/semanticHighlighting.field.color=190,214,255
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.TopLevelNamespace_enabled=true
 /instance/org.epic.perleditor/literal2Color=255,198,0
+/instance/org.eclipse.ui.workbench/org.eclipse.e4.ui.css.theme.e4_dark.org.eclipse.ui.workbench.INACTIVE_TAB_UNSELECTED_TEXT_COLOR=187,187,187
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.deprecatedMember.color=210,82,82
 /instance/de.walware.statet.r.ui/text_R_rOtherOperators.color=216,216,216
 /instance/com.puppetlabs.geppetto.module.dsl.Module/com.puppetlabs.geppetto.module.dsl.Module.syntaxColorer.tokenStyles.task.color=204,223,50
@@ -885,6 +888,7 @@
 /instance/org.epic.perleditor/errorIndicationColor=210,82,82
 /instance/org.erlide.ui/editor/colors/variable/style=0
 /instance/ccw.core/ccw.preferences.editor_color.callableJAVA_CLASS.enabled=true
+/instance/org.eclipse.jdt.ui/java_keyword_return_bold=false
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.XMLNamespaceName_color=255,255,255
 /instance/net.sf.eclipsefp.haskell.ui/functionColor=216,216,216
 /instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.templates_migrated=true
@@ -922,7 +926,6 @@
 /instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.editor.tab.width=
 /instance/ccw.core/ccw.preferences.editor_color.comment.bold=false
 /instance/com.powerflasher.fdt.ui/JAVADOC_TODO_color=217,229,119
-/instance/org.eclipse.jdt.ui/semanticHighlighting.annotation.bold=true
 /instance/ccw.core/ccw.preferences.editor_color.float.enabled=true
 /instance/org.scala-ide.sdt.core/syntaxColouring.numberLiteral.colour=127,179,71
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.Namespace_color=255,255,255
@@ -1054,7 +1057,7 @@
 /instance/org.eclipse.rse.core/useridperkey=Hiroki-no-MacBook-Pro.Local\=hirokisugiyama;
 /instance/de.walware.statet.r.ui/text_R_rSeparators.color=216,216,216
 /instance/org.erlide.ui/editor/colors/variable/color=121,171,255
-/instance/org.eclipse.jdt.ui/semanticHighlighting.class.color=43,194,255
+/instance/org.eclipse.jdt.ui/semanticHighlighting.class.color=73,223,255
 \!/=
 /instance/org.eclipse.wst.css.ui/PSEUDO=\#FFFFFF | \#1E1E1E | null | null | null | null
 /instance/eclihx.ui/hx_editor_number_color=127,179,71
@@ -1209,6 +1212,7 @@
 /instance/org.eclipse.wst.html.ui/tagAttributeValue=\#FFC600 | \#1E1E1E | null | null | null | null
 /instance/org.cfeclipse.cfml/cftaglibColor=217,229,119
 /instance/org.scala-ide.play2/template.at.colour=255,255,255
+/instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.bold=false
 /instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Foreground=131,148,150
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.staticFinalField.color=239,192,144
 /instance/org.eclipse.jdt.ui/semanticHighlighting.staticFinalField.enabled=true
@@ -1236,7 +1240,7 @@
 /instance/com.spket.xml/xml_tags=190,214,255
 /instance/org.eclipse.wst.xsl.ui/xsltagAttributeName=\#BED6FF | \#1E1E1E | null | null | null | null
 /instance/com.powerflasher.fdt.ui/AS_TYPE_color_strikethrough=false
-/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.egit.ui.GitTheme\tTorg.eclipse.jdt.ui.presentation\tTorg.eclipse.rse.ui.presentation\tTorg.eclipse.wst.sse.ui\tTorg.eclipse.ui.presentation.default
+/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.debug.ui.presentation\tTorg.eclipse.egit.ui.GitTheme\tTorg.eclipse.jdt.ui.presentation\tTorg.eclipse.wst.jsdt.ui.presentation\tTorg.eclipse.rse.ui.presentation\tTorg.eclipse.rse.ui.remotecommandsview.presentation\tTorg.eclipse.wst.sse.ui\tTorg.eclipse.mylyn.tasks.ui.presentation\tTorg.eclipse.compare.contentmergeviewer.TextMergeViewer\tTorg.eclipse.ui.presentation.default\tTorg.eclipse.mylyn.wikitext.ui.presentation
 /instance/org.eclipse.php.ui/editorColorComment=\#C7DD0C | \#1E1E1E | null | null | null | null
 /instance/com.spket.js/java_doc_link=217,229,119
 /instance/com.powerflasher.fdt.ui/AS_TYPE_color_bold=false
@@ -1288,7 +1292,6 @@
 /instance/org.scala-ide.play2/syntaxColouring.singleLineComment.colour=199,221,12
 @org.eclipse.wst.xsl.ui=1.1.301.v201304222136
 /instance/com.adobe.flexide.mxml.core/mxmlComponentTagBold=false
-/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractClass.bold=true
 /instance/ccw.core/ccw.preferences.editor_color.string.italic=false
 /instance/de.walware.statet.r.ui/text_Rd_rdSubSectionTag.color=255,255,255
 /instance/org.codehaus.groovy.eclipse.ui/groovy.editor.highlight.multilinecomments.color=199,221,12
@@ -1322,7 +1325,6 @@
 /instance/org.python.pydev/DECORATOR_COLOR=255,255,255
 /instance/org.scala-ide.sdt.core/syntaxColoring.semantic.lazyLocalVal.color=127,179,71
 /instance/org.nodeclipse.enide.editors.gradle/color_keyword=255,255,255
-/instance/org.eclipse.jdt.ui/semanticHighlighting.class.bold=true
 /instance/com.adobe.flexide.mxml.core/asASDocItalic=false
 /instance/com.powerflasher.fdt.ui/AS_TYPE_color=210,82,82
 /instance/org.erlide.ui/editor/colors/comment/style=0
@@ -1352,6 +1354,7 @@
 /instance/com.adobe.flexide.as.core/asASDocBold=false
 /instance/org.scala-ide.sdt.core/syntaxColouring.semantic.caseObject.colour=127,179,71
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.enum.enabled=true
+/instance/org.eclipse.jdt.ui/java_keyword_bold=false
 /instance/net.vtst.ow.eclipse.less.Less/net.vtst.ow.eclipse.less.Less.syntaxColorer.tokenStyles.SELECTOR_ROOT.color=255,255,255
 /instance/org.epic.perleditor/othersIndicationColor=216,216,216
 /instance/org.scala-ide.sdt.core/syntaxColouring.semantic.templateVal.colour=190,214,255
@@ -1575,7 +1578,9 @@ file_export_version=3.0
 /instance/org.eclipse.cdt.ui/semanticHighlighting.function.color=255,255,255
 /instance/org.eclipse.dltk.tcl.ui/content_assist_parameters_background=30,30,30
 /instance/org.eclipse.cdt.ui/semanticHighlighting.function.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticFinalField.bold=false
 /instance/org.eclipse.php.ui/semanticHighlighting.org.eclipse.php.internal.ui.editor.highlighters.FieldHighlighting.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.bold=false
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
 /instance/org.eclipse.dltk.ruby.ui/DLTK_doc.topic=217,229,119
 /instance/org.eclipse.epp.logging.aeri.ide/anonymizeStackTraces=true
@@ -1610,13 +1615,13 @@ file_export_version=3.0
 /instance/com.puppetlabs.geppetto.pp.dsl.PP/com.puppetlabs.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.keyword.color=255,255,255
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLStyleName_enabled=true
 /instance/org.python.pydev/SELF_COLOR=255,255,255
-/instance/org.eclipse.jdt.ui/org.eclipse.jface.textfont=1|Monaco|11.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.jdt.ui/org.eclipse.jface.textfont=1|Menlo|12.0|0|COCOA|1|Menlo-Regular;
 /instance/org.eclipse.ui.editors/filteredSearchResultIndicationColor=27,98,145
 /instance/net.sourceforge.texlipse/slc.BibColor=199,221,12
 /instance/org.chromium.debug.ui/color_keyword=255,255,255
 /instance/org.eclipse.wst.xml.ui/tagAttributeValue=\#17C6A3 | null | false | true | false | false
 /instance/org.eclipse.dltk.ruby.ui/DLTK_comment_task_tag=204,223,50
-/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.selectedElement=Corg.eclipse.ui.workbench.INACTIVE_TAB_SELECTED_TEXT_COLOR
+/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.jdt.ui.editors.textfont
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLNamespace_enabled=true
 /instance/org.eclipse.dltk.tcl.ui/content_assist_parameters_foreground=216,216,216
 /instance/org.scala-ide.play2/template.plain.colour=216,216,216
