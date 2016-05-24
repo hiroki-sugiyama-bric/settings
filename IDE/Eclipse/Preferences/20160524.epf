@@ -1,7 +1,7 @@
-#Tue May 24 11:09:04 JST 2016
+#Tue May 24 12:00:28 JST 2016
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeParameter.enabled=true
 /instance/com.adobe.flexide.as.core/asASDocColor=\#CCDF32
-/instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedMethodInvocation.color=205,246,104
+/instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedMethodInvocation.color=176,235,126
 /instance/org.epic.perleditor/labelColor=216,216,216
 /instance/org.eclipse.jdt.ui/semanticHighlighting.abstractMethodInvocation.enabled=true
 /instance/ccw.core/ccw.preferences.editor_color.callableSPECIAL_FORM.enabled=true
@@ -15,6 +15,7 @@
 /instance/com.adobe.flexide.css.core/cssStringBold=false
 /instance/org.cfeclipse.cfml/defaultTextColor=216,216,216
 /instance/org.scala-ide.sdt.core/syntaxColouring.character.colour=255,198,0
+@org.eclipse.ui.trace=1.0.300.v20150220-1252
 /instance/org.eclipse.cdt.ui/asm_label=216,216,216
 /instance/org.eclipse.pde.core/workspace_target_handle=local\:1463710971127.target
 /instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.enabled=true
@@ -50,7 +51,7 @@
 /instance/ccw.core/ccw.preferences.editor_color.int=127,179,71
 /instance/org.eclipse.dltk.tcl.ui/DLTK_base_class_strikethrough=false
 /instance/org.sweetlemonade.eclipse.json/colorKeyStyle=0
-/instance/org.eclipse.jdt.ui/java_keyword_return=255,177,62
+/instance/org.eclipse.jdt.ui/java_keyword_return=235,145,56
 /instance/org.eclipse.epp.logging.aeri.ide/debugEnabled=false
 /instance/org.eclipse.mylyn.tasks.ui/org.eclipse.mylyn.tasks.ui.filters.nonmatching.encouraged=true
 /instance/org.scala-ide.play2/syntaxColouring.xml.comment.colour=199,221,12
@@ -212,6 +213,7 @@
 @org.eclipse.mylyn.monitor.ui=3.18.0.v20151009-1724
 /instance/org.eclipse.cdt.ui/semanticHighlighting.class.enabled=true
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+/instance/org.eclipse.ui.trace/tracingFilePath=/Users/hirokisugiyama/Git/testProjects/Struts2/Eclipse/.metadata/trace.log
 /instance/org.eclipse.ui.editors/asOccurencesIndicationColor=72,72,72
 /instance/org.eclipse.dltk.ruby.ui/variable.pseudo_bold=false
 /instance/org.eclipse.wst.dtd.ui/dtdString=\#FFC600 | \#1E1E1E | null | null | null | null
@@ -312,6 +314,7 @@
 /instance/goclipse/syntax_highlighting_builtin_function_color=255,255,255
 /instance/org.eclipse.wst.xml.ui/commentBorder=\#626262 | null | false | false | false | false
 /instance/com.adobe.flexide.as.core/asOperatorColor=\#D8D8D8
+/instance/org.eclipse.ui.trace/tracingMaxFileCount=10
 /instance/org.eclipse.dltk.ruby.ui/variable.global=239,192,144
 /instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.MemoryViewTableFont=1|Monaco|11.0|0|COCOA|1|Monaco;
 /instance/com.adobe.flexide.css.core/cssNamespaceColor=\#D8D8D8
@@ -338,7 +341,7 @@
 /instance/org.eclipse.wst.html.ui/declBoder=\#FFFFFF | \#1E1E1E | null | null | null | null
 /instance/org.eclipse.dltk.ruby.ui/variable_bold=false
 /instance/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
-/instance/org.eclipse.jdt.ui/overriddenByCSS=,content_assist_completion_replacement_background,content_assist_completion_replacement_foreground,content_assist_parameters_background,content_assist_parameters_foreground,content_assist_proposals_background,content_assist_proposals_foreground,java_bracket,java_comment_task_tag,java_default,java_doc_link,java_doc_tag,java_operator,matchingBracketsColor,pf_coloring_argument,pf_coloring_assignment,pf_coloring_comment,pf_coloring_key,pf_coloring_value,semanticHighlighting.abstractClass.bold,semanticHighlighting.abstractClass.color,semanticHighlighting.abstractClass.enabled,semanticHighlighting.abstractMethodInvocation.color,semanticHighlighting.abstractMethodInvocation.enabled,semanticHighlighting.annotation.bold,semanticHighlighting.annotation.color,semanticHighlighting.annotation.enabled,semanticHighlighting.annotation.italic,semanticHighlighting.annotationElementReference.color,semanticHighlighting.annotationElementReference.enabled,semanticHighlighting.class.enabled,semanticHighlighting.class.bold,semanticHighlighting.deprecatedMember.color,semanticHighlighting.deprecatedMember.enabled,semanticHighlighting.deprecatedMember.underline,semanticHighlighting.deprecatedMember.strikethrough,semanticHighlighting.enum.color,semanticHighlighting.enum.enabled,semanticHighlighting.enum.italic,semanticHighlighting.field.enabled,semanticHighlighting.inheritedMethodInvocation.color,semanticHighlighting.inheritedMethodInvocation.enabled,semanticHighlighting.interface.color,semanticHighlighting.interface.enabled,semanticHighlighting.localVariable.color,semanticHighlighting.localVariable.enabled,semanticHighlighting.localVariableDeclaration.color,semanticHighlighting.localVariableDeclaration.enabled,semanticHighlighting.method.enabled,semanticHighlighting.methodDeclarationName.enabled,semanticHighlighting.number.color,semanticHighlighting.number.enabled,semanticHighlighting.parameterVariable.enabled,semanticHighlighting.staticField.color,semanticHighlighting.staticField.enabled,semanticHighlighting.staticFinalField.enabled,semanticHighlighting.staticMethodInvocation.color,semanticHighlighting.staticMethodInvocation.enabled,semanticHighlighting.typeArgument.color,semanticHighlighting.typeArgument.enabled,semanticHighlighting.typeParameter.color,semanticHighlighting.typeParameter.enabled,
+/instance/org.eclipse.jdt.ui/overriddenByCSS=,content_assist_completion_replacement_background,content_assist_completion_replacement_foreground,content_assist_parameters_background,content_assist_parameters_foreground,content_assist_proposals_background,content_assist_proposals_foreground,java_bracket,java_comment_task_tag,java_default,java_doc_link,java_doc_tag,java_operator,matchingBracketsColor,pf_coloring_argument,pf_coloring_assignment,pf_coloring_comment,pf_coloring_key,pf_coloring_value,semanticHighlighting.abstractClass.bold,semanticHighlighting.abstractClass.color,semanticHighlighting.abstractClass.enabled,semanticHighlighting.abstractMethodInvocation.color,semanticHighlighting.abstractMethodInvocation.enabled,semanticHighlighting.annotation.bold,semanticHighlighting.annotation.color,semanticHighlighting.annotation.enabled,semanticHighlighting.annotation.italic,semanticHighlighting.annotationElementReference.color,semanticHighlighting.annotationElementReference.enabled,semanticHighlighting.class.enabled,semanticHighlighting.class.bold,semanticHighlighting.deprecatedMember.color,semanticHighlighting.deprecatedMember.enabled,semanticHighlighting.deprecatedMember.underline,semanticHighlighting.deprecatedMember.strikethrough,semanticHighlighting.enum.color,semanticHighlighting.enum.enabled,semanticHighlighting.enum.italic,semanticHighlighting.field.enabled,semanticHighlighting.inheritedMethodInvocation.enabled,semanticHighlighting.interface.color,semanticHighlighting.interface.enabled,semanticHighlighting.localVariable.color,semanticHighlighting.localVariable.enabled,semanticHighlighting.localVariableDeclaration.color,semanticHighlighting.localVariableDeclaration.enabled,semanticHighlighting.method.enabled,semanticHighlighting.methodDeclarationName.enabled,semanticHighlighting.number.color,semanticHighlighting.number.enabled,semanticHighlighting.parameterVariable.enabled,semanticHighlighting.staticField.color,semanticHighlighting.staticField.enabled,semanticHighlighting.staticFinalField.enabled,semanticHighlighting.staticMethodInvocation.enabled,semanticHighlighting.typeArgument.color,semanticHighlighting.typeArgument.enabled,semanticHighlighting.typeParameter.color,semanticHighlighting.typeParameter.enabled,
 /instance/org.eclipse.php.ui/editorColorKeyword=\#FFFFFF | \#1E1E1E | false | null | null | null
 @org.eclipse.jdt.core=3.11.2.v20160128-0629
 /instance/org.python.pydev/CLASS_NAME_COLOR=210,82,82
@@ -366,7 +369,7 @@
 /instance/ccw.core/ccw.preferences.editor_color.comment.enabled=true
 /instance/org.eclipse.cdt.ui/org.eclipse.cdt.internal.ui.text.doctools.recognizedTag=217,229,119
 /instance/org.eclipse.dltk.ruby.ui/DLTK_number=127,179,71
-/instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.color=255,222,84
+/instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.color=255,191,84
 /instance/org.eclipse.jdt.ui/java_multi_line_comment=146,146,146
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.BasicSemanticHighlightGenerator.AS3.Setter_enabled=true
 /instance/com.dubture.twig.ui/editorColorHeredoc=\#CCDF32 | \#1E1E1E | null | null | null | null
@@ -461,7 +464,7 @@
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.RegEx_enabled=true
 /instance/net.sourceforge.texlipse/str.BibColor=255,198,0
 /instance/de.walware.statet.r.ui/text_Rd_rdSectionTag.strikethrough=false
-/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.UncommittedChangeForegroundColor=255,255,255
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.UncommittedChangeForegroundColor=240,240,240
 /instance/net.sf.eclipse.tomcat/contextsDir=/usr/local/Cellar/tomcat/8.0.32/libexec/conf/Catalina/localhost
 /instance/org.scala-ide.play2/route.actionMethod.colour=255,255,255
 /instance/com.adobe.flexide.css.core/cssMediaColor=\#FFFFFF
@@ -539,7 +542,7 @@
 /instance/de.walware.statet.r.ui/text_R_rRoxygen.italic=false
 /instance/ccw.core/ccw.preferences.editor_color.float=127,179,71
 /instance/org.scala-ide.sdt.core/syntaxColoring.semantic.localVal.color=239,192,144
-/instance/org.eclipse.jdt.ui/semanticHighlighting.field.color=157,230,232
+/instance/org.eclipse.jdt.ui/semanticHighlighting.field.color=179,216,225
 /instance/org.eclipse.jdt.ui/content_assist_completion_replacement_background=200,200,0
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.consoleBackground=53,53,53
 /instance/com.powerflasher.fdt.ui/JAVADOC_TODO_color_bold=false
@@ -626,7 +629,7 @@
 /instance/org.scala-ide.sdt.core/syntaxColouring.semantic.localVal.colour=239,192,144
 /instance/org.scala-ide.play2/syntaxColouring.numberLiteral.colour=127,179,71
 /instance/net.sf.eclipsefp.haskell.ui/literateCommentColor=199,221,12
-/instance/org.eclipse.jdt.ui/java_doc_keyword=154,188,124
+/instance/org.eclipse.jdt.ui/java_doc_keyword=81,109,73
 @org.eclipse.rse.ui=3.3.100.201503112018
 /instance/org.epic.perleditor/bookmarkIndicationColor=217,229,119
 /instance/org.codehaus.groovy.eclipse.ui/groovy.editor.groovyDoc.tag.enabled=true
@@ -805,7 +808,7 @@
 /instance/org.scala-ide.play2/template.brace.colour=255,255,255
 /instance/org.scala-ide.sdt.core/syntaxColouring.semantic.object.colour=127,179,71
 /instance/org.sweetlemonade.eclipse.json/colorDefaultEnabled=true
-/instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.color=238,238,238
+/instance/org.eclipse.jdt.ui/semanticHighlighting.parameterVariable.color=225,225,225
 /instance/org.eclipse.wst.jsdt.ui/useAnnotationsPrefPage=true
 /instance/org.python.pydev/KEYWORD_COLOR=255,255,255
 /instance/de.walware.statet.r.ui/text_R_taskTag.color=204,223,50
@@ -890,6 +893,7 @@
 /instance/ccw.core/ccw.preferences.editor_color.callableJAVA_CLASS.enabled=true
 /instance/org.eclipse.jdt.ui/java_keyword_return_bold=false
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.XMLNamespaceName_color=255,255,255
+/instance/org.eclipse.ui.trace/tracingOutputStandard=false
 /instance/net.sf.eclipsefp.haskell.ui/functionColor=216,216,216
 /instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.templates_migrated=true
 /instance/ccw.core/ccw.preferences.editor_color.callableJAVA_STATIC_METHOD=209,151,217
@@ -926,6 +930,7 @@
 /instance/org.eclipse.wst.jsdt.ui/org.eclipse.wst.jsdt.ui.editor.tab.width=
 /instance/ccw.core/ccw.preferences.editor_color.comment.bold=false
 /instance/com.powerflasher.fdt.ui/JAVADOC_TODO_color=217,229,119
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotation.bold=true
 /instance/ccw.core/ccw.preferences.editor_color.float.enabled=true
 /instance/org.scala-ide.sdt.core/syntaxColouring.numberLiteral.colour=127,179,71
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.Namespace_color=255,255,255
@@ -1057,7 +1062,7 @@
 /instance/org.eclipse.rse.core/useridperkey=Hiroki-no-MacBook-Pro.Local\=hirokisugiyama;
 /instance/de.walware.statet.r.ui/text_R_rSeparators.color=216,216,216
 /instance/org.erlide.ui/editor/colors/variable/color=121,171,255
-/instance/org.eclipse.jdt.ui/semanticHighlighting.class.color=73,223,255
+/instance/org.eclipse.jdt.ui/semanticHighlighting.class.color=113,200,172
 \!/=
 /instance/org.eclipse.wst.css.ui/PSEUDO=\#FFFFFF | \#1E1E1E | null | null | null | null
 /instance/eclihx.ui/hx_editor_number_color=127,179,71
@@ -1130,7 +1135,7 @@
 /instance/org.scala-ide.sdt.core/syntaxColouring.semantic.lazyTemplateVal.colour=190,214,255
 /instance/org.cfeclipse.cfml/cfcommentBackgroundColor=30,30,30
 /instance/org.eclipse.ui.workbench/org.eclipse.compare.contentmergeviewer.TextMergeViewer=1|Monaco|11.0|0|COCOA|1|Monaco;
-/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<keyBinding commandId\="org.eclipse.pde.ui.openPluginArtifact" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+P"/>\n<keyBinding commandId\="org.eclipse.ui.window.showKeyAssist" contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+A"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+D R"/>\n<keyBinding commandId\="org.eclipse.wst.server.launchShortcut.run" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+COMMAND+CTRL+R"/>\n<keyBinding commandId\="org.eclipse.ui.navigate.showIn" contextId\="org.eclipse.ui.serverViewScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+4">\n<parameter id\="org.eclipse.ui.navigate.showIn.targetId" value\="org.eclipse.wst.server.ui.ServersView"/>\n</keyBinding>\n<keyBinding contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+L"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+1"/>\n<keyBinding commandId\="org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals" contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+F"/>\n<keyBinding contextId\="org.eclipse.jdt.ui.classFileEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+1"/>\n<keyBinding commandId\="org.eclipse.wst.server.launchShortcut.debug" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+COMMAND+CTRL+D"/>\n<keyBinding commandId\="org.eclipse.ui.window.quickAccess" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+3"/>\n<keyBinding commandId\="org.eclipse.ui.navigate.showIn" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+2">\n<parameter id\="org.eclipse.ui.navigate.showIn.targetId" value\="org.eclipse.ui.navigator.ProjectExplorer"/>\n</keyBinding>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+X R"/>\n<keyBinding contextId\="org.eclipse.wst.sse.ui.structuredTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+A"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+A"/>\n<keyBinding commandId\="org.eclipse.ui.window.splitEditor" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+V">\n<parameter id\="Splitter.isHorizontal" value\="false"/>\n</keyBinding>\n<keyBinding commandId\="org.eclipse.ui.views.showView" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+1">\n<parameter id\="org.eclipse.ui.views.showView.viewId" value\="org.eclipse.ui.navigator.ProjectExplorer"/>\n</keyBinding>\n<keyBinding commandId\="org.eclipse.wst.sse.ui.search.find.occurrences" contextId\="org.eclipse.wst.sse.ui.structuredTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+O"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+["/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+3"/>\n</org.eclipse.ui.commands>
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<keyBinding commandId\="org.eclipse.pde.ui.openPluginArtifact" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+P"/>\n<keyBinding commandId\="org.eclipse.ui.window.showKeyAssist" contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+A"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+D R"/>\n<keyBinding commandId\="org.eclipse.jdt.ui.edit.text.java.search.references.in.workspace" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+U"/>\n<keyBinding commandId\="org.eclipse.wst.server.launchShortcut.run" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+COMMAND+CTRL+R"/>\n<keyBinding commandId\="org.eclipse.ui.navigate.showIn" contextId\="org.eclipse.ui.serverViewScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+4">\n<parameter id\="org.eclipse.ui.navigate.showIn.targetId" value\="org.eclipse.wst.server.ui.ServersView"/>\n</keyBinding>\n<keyBinding commandId\="org.eclipse.wst.jsdt.ui.edit.text.java.search.references.in.workspace" contextId\="org.eclipse.wst.jsdt.ui.javascriptViewScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+U"/>\n<keyBinding contextId\="org.eclipse.wst.jsdt.ui.javascriptViewScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="F3"/>\n<keyBinding contextId\="org.eclipse.wst.jsdt.ui.javascriptViewScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+G"/>\n<keyBinding commandId\="org.eclipse.wst.jsdt.ui.edit.text.java.open.editor" contextId\="org.eclipse.wst.jsdt.ui.javascriptViewScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+B"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+1"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+L"/>\n<keyBinding commandId\="org.eclipse.jdt.ui.edit.text.java.open.editor" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+B"/>\n<keyBinding commandId\="org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals" contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+F"/>\n<keyBinding commandId\="org.eclipse.ui.project.buildAll" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+CTRL+SHIFT+B"/>\n<keyBinding contextId\="org.eclipse.jdt.ui.classFileEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+1"/>\n<keyBinding commandId\="org.eclipse.wst.server.launchShortcut.debug" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+COMMAND+CTRL+D"/>\n<keyBinding commandId\="org.eclipse.ui.window.quickAccess" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+3"/>\n<keyBinding commandId\="org.eclipse.ui.navigate.showIn" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+2">\n<parameter id\="org.eclipse.ui.navigate.showIn.targetId" value\="org.eclipse.ui.navigator.ProjectExplorer"/>\n</keyBinding>\n<keyBinding contextId\="org.eclipse.ant.ui.AntEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="F3"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SHIFT+X R"/>\n<keyBinding contextId\="org.eclipse.wst.sse.ui.structuredTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+A"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+A"/>\n<keyBinding commandId\="org.eclipse.ui.window.splitEditor" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+V">\n<parameter id\="Splitter.isHorizontal" value\="false"/>\n</keyBinding>\n<keyBinding commandId\="org.eclipse.ant.ui.open.declaration.command" contextId\="org.eclipse.ant.ui.AntEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+B"/>\n<keyBinding commandId\="org.eclipse.ui.views.showView" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+1">\n<parameter id\="org.eclipse.ui.views.showView.viewId" value\="org.eclipse.ui.navigator.ProjectExplorer"/>\n</keyBinding>\n<keyBinding commandId\="org.eclipse.wst.sse.ui.search.find.occurrences" contextId\="org.eclipse.wst.sse.ui.structuredTextEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+O"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+3"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+["/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="F3"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+B"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+SHIFT+G"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+F12"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+F12"/>\n<keyBinding commandId\="org.eclipse.ui.window.activateEditor" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+4"/>\n</org.eclipse.ui.commands>
 /instance/ccw.core/ccw.preferences.editor_color.callableRAW_SYMBOL.bold=false
 /instance/org.eclipse.dltk.ruby.ui/variable.class=210,82,82
 /instance/de.walware.statet.r.ui/text_R_rRoxygenTag.bold=false
@@ -1174,7 +1179,7 @@
 /instance/org.eclipse.ui.editors/spellingIndicationColor=253,170,211
 /instance/org.eclipse.cdt.ui/c_comment_task_tag=204,223,50
 /instance/org.eclipse.team.cvs.ui/pref_console_error_color=210,82,82
-/instance/org.eclipse.jdt.ui/java_keyword=255,177,62
+/instance/org.eclipse.jdt.ui/java_keyword=235,145,56
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.AS3SemanticHighlightGenerator.AS3.XMLCDATATag_color=216,216,216
 /instance/org.eclipse.ui.editors/AbstractTextEditor.Color.Background=41,41,41
 /instance/jp.gr.java_conf.ussiy.app.propedit/commentColor=199,221,12
@@ -1204,6 +1209,7 @@
 /instance/de.walware.statet.r.ui/text_R_rUndefined.strikethrough=true
 /instance/net.sourceforge.texlipse/key.BibColor=255,255,255
 /instance/ccw.core/ccw.preferences.editor_color.comment.italic=false
+/instance/org.eclipse.ui.trace/tracingEntries=
 /instance/org.jboss.ide.eclipse.freemarker/color.interpolation=255,255,255
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLState_color=191,164,164
 /instance/org.sweetlemonade.eclipse.json/colorObjectBracketEnabled=true
@@ -1233,6 +1239,7 @@
 /instance/org.cloudsmith.geppetto.pp.dsl.PP/org.cloudsmith.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.punctuation.color=216,216,216
 /instance/ccw.core/ccw.preferences.editor_color.JAVA_CLASS.italic=false
 /instance/org.cloudsmith.geppetto.pp.dsl.PP/org.cloudsmith.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.spaces.color=216,216,216
+/instance/org.eclipse.ui.trace/tracingEnabled=false
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.changedDebugElement=255,128,128
 /instance/de.walware.statet.r.ui/text_R_rAssignment.color=216,216,216
 /instance/org.eclipse.wst.jsdt.ui/java_keyword=221,40,103
@@ -1251,7 +1258,7 @@
 /instance/org.scala-ide.play2/syntaxColouring.return.colour=255,255,255
 /instance/org.python.pydev/FUNC_NAME_STYLE=0
 /instance/org.eclipse.wst.css.ui/URI=\#FFC600 | \#1E1E1E | null | null | null | null
-/instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.color=150,236,63
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.color=220,225,161
 /instance/net.sf.eclipsefp.haskell.ui/pragmaColor=199,221,12
 /instance/org.eclipse.debug.ui/preferredTargets=default\:default|
 /instance/org.eclipse.ui.editors/javaScriptOccurrenceIndicationColor=0,0,0
@@ -1282,7 +1289,7 @@
 /instance/org.epic.perleditor/numberColorBold=false
 /instance/org.codehaus.groovy.eclipse.ui/semanticHighlighting.annotation.enabled=true
 /instance/org.cloudsmith.geppetto.pp.dsl.PP/org.cloudsmith.geppetto.pp.dsl.PP.syntaxColorer.tokenStyles.string.color=255,198,0
-/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.IgnoredResourceForegroundColor=123,123,123
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.IgnoredResourceForegroundColor=140,140,140
 /instance/org.eclipse.jst.jsp.ui/tagAttributeValue=\#17c6a3 | null | false | false | false | false
 /instance/org.scala-ide.sdt.core/syntaxColouring.multiLineString.colour=255,198,0
 /instance/org.eclipse.wst.xml.ui/tagAttributeEquals=\#52ca11 | null | false | false | false | false
@@ -1292,6 +1299,7 @@
 /instance/org.scala-ide.play2/syntaxColouring.singleLineComment.colour=199,221,12
 @org.eclipse.wst.xsl.ui=1.1.301.v201304222136
 /instance/com.adobe.flexide.mxml.core/mxmlComponentTagBold=false
+/instance/org.eclipse.jdt.ui/semanticHighlighting.abstractClass.bold=true
 /instance/ccw.core/ccw.preferences.editor_color.string.italic=false
 /instance/de.walware.statet.r.ui/text_Rd_rdSubSectionTag.color=255,255,255
 /instance/org.codehaus.groovy.eclipse.ui/groovy.editor.highlight.multilinecomments.color=199,221,12
@@ -1446,7 +1454,7 @@ file_export_version=3.0
 /instance/com.adobe.flexide.mxml.core/mxmlCommentItalic=false
 /instance/com.powerflasher.fdt.ui/MULTILINE_COMMENT_color=199,221,12
 /instance/org.eclipse.cdt.ui/semanticHighlighting.macroDefinition.enabled=true
-/instance/org.eclipse.jdt.ui/java_string=23,208,116
+/instance/org.eclipse.jdt.ui/java_string=110,185,70
 /instance/org.epic.perleditor/comment2ColorBold=false
 /instance/org.python.pydev/FUNC_NAME_COLOR=255,255,255
 /instance/org.eclipse.pde.ui/editor.color.header_assignment=103,207,241
@@ -1518,8 +1526,9 @@ file_export_version=3.0
 /instance/org.eclipse.dltk.ruby.ui/content_assist_completion_replacement_foreground=216,216,216
 /instance/org.eclipse.cdt.ui/semanticHighlighting.field.enabled=true
 /instance/ccw.core/ccw.preferences.editor_color.callableFUNCTION=190,214,255
-/instance/org.eclipse.jdt.ui/java_doc_default=97,187,97
+/instance/org.eclipse.jdt.ui/java_doc_default=97,151,85
 /instance/net.vtst.ow.eclipse.less.Less/net.vtst.ow.eclipse.less.Less.syntaxColorer.tokenStyles.SELECTOR.color=255,255,255
+/instance/org.eclipse.ui.trace/tracingMaxFileSize=1000
 /instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.enabled=true
 /instance/com.spket.xml/xml_cdata=216,216,216
 /instance/org.erlide.ui/editor/colors/comment/color=199,221,12
@@ -1621,7 +1630,7 @@ file_export_version=3.0
 /instance/org.chromium.debug.ui/color_keyword=255,255,255
 /instance/org.eclipse.wst.xml.ui/tagAttributeValue=\#17C6A3 | null | false | true | false | false
 /instance/org.eclipse.dltk.ruby.ui/DLTK_comment_task_tag=204,223,50
-/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.jdt.ui.editors.textfont
+/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.selectedElement=Corg.eclipse.egit.ui.UncommittedChangeForegroundColor
 /instance/com.powerflasher.fdt.ui/com.powerflasher.fdt.ui.mxml.mxmlHighlightGenerator.AS3.MXMLNamespace_enabled=true
 /instance/org.eclipse.dltk.tcl.ui/content_assist_parameters_foreground=216,216,216
 /instance/org.scala-ide.play2/template.plain.colour=216,216,216
