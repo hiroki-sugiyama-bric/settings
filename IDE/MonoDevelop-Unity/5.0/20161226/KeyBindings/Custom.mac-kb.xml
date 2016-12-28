@@ -1,0 +1,9 @@
+﻿<schemes version="1.0">
+  <scheme name="current">
+    <binding command="MonoDevelop.Refactoring.RefactoryCommands.GotoDeclaration" shortcut="Meta+B" />
+    <binding command="MonoDevelop.Ide.Commands.ProjectCommands.BuildSolution" shortcut="Shift+Meta+B" />
+    <binding command="MonoDevelop.SourceEditor.QuickTasks.ScrollbarCommand.PgDown" shortcut="Control+F" />
+    <binding command="MonoDevelop.SourceEditor.QuickTasks.ScrollbarCommand.PgUp" shortcut="Control+B" />
+    <binding command="MonoDevelop.Ide.Commands.EditCommands.Redo" shortcut="Control+R" />
+  </scheme>
+</schemes>

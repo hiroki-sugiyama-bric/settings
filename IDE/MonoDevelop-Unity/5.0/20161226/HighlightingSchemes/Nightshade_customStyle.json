@@ -1,0 +1,29 @@
+{
+	"name":"Nightshade_custom",
+	"version":"1.0",
+	"originator":"Anirudh Sanjeev <anirudh@anirudhsanjeev.org>",
+	"baseScheme":"Nightshade",
+	"colors":[
+	],
+	"text":[
+		{"name": "Plain Text", "fore":"#F4F1E7", "back":"#101010" },
+		{"name": "Line Numbers", "fore":"#888888", "back":"#666666" },
+		{"name": "Punctuation", "fore":"#F4F1E7" },
+		{"name": "Punctuation(Brackets)", "fore":"#F4F1E7" },
+		{"name": "String", "fore":"#8BE740" },
+		{"name": "String(Escape)", "fore":"#8BE740" },
+		{"name": "String(C# @ Verbatim)", "fore":"#8BE740" },
+		{"name": "Number", "fore":"#84BEFF" },
+		{"name": "Keyword(Selection)", "fore":"#FFFFB6" },
+		{"name": "Keyword(Iteration)", "fore":"#FFFFB6" },
+		{"name": "Keyword(Jump)", "fore":"#FFFFB6" },
+		{"name": "Keyword(Context)", "fore":"#FFFFB6" },
+		{"name": "Keyword(Exception)", "fore":"#FFFFB6" },
+		{"name": "Keyword(Namespace)", "fore":"#FFFFB6" },
+		{"name": "Keyword(Property)", "fore":"#FFFFB6" },
+		{"name": "Keyword(Declaration)", "fore":"#FFFFB6" },
+		{"name": "Keyword(Parameter)", "fore":"#FFFFB6" },
+		{"name": "Keyword(Operator Declaration)", "fore":"#FFFFB6" },
+		{"name": "Keyword(Other)", "fore":"#E08964" }
+	]
+}
